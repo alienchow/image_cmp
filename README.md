@@ -57,7 +57,7 @@ You are using it to install 2 libraries used in my compare script.
 
 ### 1. Create the test files and compare script
 
-In your macOS GUI go to any directory of your choice and dump in 2 images that you want to compare. Then create a text file, and compare in all the contents in `compare.py`. Rename the text file to `compare.py`.
+In your macOS GUI go to any directory of your choice and dump in 2 images that you want to compare. Then create a text file, and copy in all the contents in `compare.py`. Rename the text file to `compare.py`.
 
 ### 2. Find the full directory path to your test directory
 
